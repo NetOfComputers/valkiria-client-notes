@@ -49,7 +49,7 @@ https://github.com/opencv/opencv/issues/20311 with older versions
 > pip uninstall opencv-python 
 > pip uninstall opencv-python-headless
 
-## Reinstall Opencv Targeting older version
+### Reinstall Opencv Targeting older version
 > pip install opencv-python==4.4.0.46 
 > pip install opencv-python-headless==4.4.0.46 
 
