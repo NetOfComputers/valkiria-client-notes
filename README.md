@@ -53,5 +53,6 @@ https://github.com/opencv/opencv/issues/20311 with older versions
 > pip install opencv-python==4.4.0.46 
 > pip install opencv-python-headless==4.4.0.46 
 
-
+## SetUp Git Permissions using ssh
+https://chatgpt.com/share/66ffd2af-13d0-8005-912a-e611c7df3c69
  
