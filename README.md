@@ -56,3 +56,12 @@ https://github.com/opencv/opencv/issues/20311 with older versions
 ## SetUp Git Permissions using ssh
 https://chatgpt.com/share/66ffd2af-13d0-8005-912a-e611c7df3c69
  
+
+# Valkiria 25 Migration
+
+## Raspberry controlled code update
+
+The raspberry was last in a branch called raspberry-modf
+I am about to make any git neccesarry step to update to the branch servipy-impl which is the one containing the merge-code.
+
+Later a new branch reorganization will be required!
